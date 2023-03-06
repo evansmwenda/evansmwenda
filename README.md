@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Evans Mwenda
 
-<!--
-**evansmwenda/evansmwenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on LaraShop
+- 🌱 I’m currently learning more about flutter and laravel
+- 👯 I’m looking to collaborate on Github
+- 🤔 I’m looking for help with integration
+- 💬 Ask me about flutter and any tech-related stuff
+- 📫 How to reach me: evansmwenda.em@gmail.com
+
+- ⚡ Fun fact: I spend almost 12 hours listening to songs every day
