@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evans Mwenda</h1>
-<h3 align="center">A passionate flutter and laravel developer from Kenya</h3>
+<h3 align="center">Flutter || Laravel</h3>
 
 
 
