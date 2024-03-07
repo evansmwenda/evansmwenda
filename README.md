@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently building on **Flutter**
 
 - 👨‍💻 All of my projects are available at [evansmwenda.github.io](evansmwenda.github.io)
 
